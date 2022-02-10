@@ -219,7 +219,7 @@ declare -A object_list=(
     ["495.29.05"]='libnvidia-fbc.so'
     ["495.44"]='libnvidia-fbc.so'
     ["495.46"]='libnvidia-fbc.so'
-    ["410.47.03"]='libnvidia-fbc.so'
+    ["510.47.03"]='libnvidia-fbc.so'
 )
 
 check_version_supported () {
